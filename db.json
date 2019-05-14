@@ -7,31 +7,37 @@
         "name": "Test User"
     },
     "books": [{
+        "id":1,
         "acc_no": "S00001",
         "title": "Unity 2017 Game Optimization",
         "isbn": "9781788392365",
         "status": "new"
     }, {
+        "id":2,
         "acc_no": "S00002",
         "title": "Hands-On Data Analysis with Scala",
         "isbn": "9781789346114",
         "status": "new"
     }, {
+        "id":3,
         "acc_no": "S00003",
         "title": "Apache Spark Quick Start Guide",
         "isbn": "9781789349108",
         "status": "new"
     }, {
+        "id":4,
         "acc_no": "S00004",
         "title": "TensorFlow 2.0 Quick Start Guide",
         "isbn": "9781789530759",
         "status": "new"
     }, {
+        "id":5,
         "acc_no": "S00005",
         "title": "Microservices Patterns With examples in Java",
         "isbn": "9781617294549",
         "status": "new"
     }, {
+        "id":6,
         "acc_no": "S00006",
         "title": "Kafka Streams in Action",
         "isbn": "9781617294471",
